@@ -15,69 +15,27 @@ Features ported in Project:
 - Copy-Paste API- Added support for Enable/Disable copy paste API
 
 Skills
-Operating Systems:
-- Linux
-- Windows
+Android Development:- Android Framework, SELinux Policy, ADB (Android Debug Bridge)
 
-Android Development:
-- Android Framework
-- SELinux Policy
-- ADB (Android Debug Bridge)
-- HIDL (HAL Interface Definition Language)
+Architecture Understanding:- Android's core architectural concepts and components
 
-Technical Expertise:
-- Android System Ul
-- Android Settings Ul
-- View System
-- UI Components
-
-Architecture Understanding:
-- Android's core architectural concepts and components
-
-System Services Management:
-- Experience in working with and customizing system services
-System-Level Application Development:
-- Development and modification of system-level applications
-
-Debugging:
-- Log debugging
-- ADB (Android Debug Bridge) debugging
+System Services Management:- Experience in working with and customizing system services
+System-Level Application Development:- Development and modification of system-level applications
 
 Hardware and Device Experience:
 - Qualcomm SDM 660
 - Rockchip 3399
 
-Programming Languages:
+Programming Languages:- Java, C, Kotlin, XML
 
-- Java
-- C
-- XML
+Android Build System:- Kati, Soong, Ninja, Makefiles, Android bp
 
-Android Build System:
-- Kati
-- Soong
-- Ninja
-- Makefiles
-- Android bp
+IPC (Inter Process communication) Mechanism:-Binder, AIDL, Content Providers 
 
-IPC (Inter Process communication) Mechanism:
--Binder
--AIDL
--Content Providers 
+Version Control:- Bitbucket, Git, Github
 
-Version Control:
-- Bitbucket
-- Git
-- GitHub
+Text Editors:- Vim, Gedit, vi, VS Code
 
-Text Editors:
-- Vim
-- Gedit
-- vi
-- VS Code
+Project Management:- JIRA
 
-Project Management: 
--JIRA
-
-CI/CD Integration-
-- Jenkins
+CI/CD Integration:- Jenkins
