@@ -1,41 +1,50 @@
-- 👋 Hi, I’m @virajpataniya
-- 👀 I’m working in Android Open Source Project (AOSP).
-- 🌱 I’m currently exploring & deep dive into  the sea of AOSP.
-- 📫 You can reach me on mail at virajpataniya@gmail.com & on Linkedin at viraj pataniya 
+👋 Hi, I'm Viraj Pataniya
 
-I am an Android Framework Engineer with 2.3 years of experience in Android Framework and AOSP. I have worked with two chipsets: Qualcomm SDM 660 and Rockchip 3399. 
+Android Framework Engineer with **3.9+ years of experience in Android Platform and AOSP development**, specializing in system-level customization, framework debugging, and enterprise device optimization.
 
-During my time in this position, I successfully developed and ported features in Android 10 and Android 12. Basic understanding of Android Audio & Wi-Fi Architecture. 
+I have worked across multiple Android versions (**Android 10, 12, 14, and 15**) on **Qualcomm and Rockchip platforms**, focusing on improving **platform stability, security, and hardware integration**.
 
-Features ported in Project: 
-- DICC- Changing priority of LAN & WiFi when both connected to device simultaneously for Android 12. 
-- Secondary Display- Support of another display attached to the device for Android 12.
-- Prestage- Implementation of Predefined features in JSON format in AES 256 bit encryption during Setup Wizard process via USB. 
-- Content pinning - Pinned the top most activity running on the main screen. 
-- Copy-Paste API- Added support for Enable/Disable copy paste API
+## 🔧 Technical Expertise
 
-Skills
-Android Development:- Android Framework, SELinux Policy, ADB (Android Debug Bridge)
+• Android Framework Development
+• Binder IPC / AIDL
+• System Services Development
+• SystemUI Customization
+• SELinux Policy Development
+• ANR / Race Condition Debugging
+• Hardware Integration at Framework Layer
 
-Architecture Understanding:- Android's core architectural concepts and components
+## 📱 Platforms
 
-System Services Management:- Experience in working with and customizing system services
-System-Level Application Development:- Development and modification of system-level applications
+Android 10 • Android 12 • Android 14 • Android 15
 
-Hardware and Device Experience:
-- Qualcomm SDM 660
-- Rockchip 3399
+## ⚙️ Chipsets
 
-Programming Languages:- Java, C, Kotlin, XML
+• Qualcomm SDM 660
+• Qualcomm SDM 4490 / 6490 / 6690
+• Rockchip RK3399
 
-Android Build System:- Kati, Soong, Ninja, Makefiles, Android bp
+## 🛠 Debugging & Tools
 
-IPC (Inter Process communication) Mechanism:-Binder, AIDL, Content Providers 
+Logcat • Perfetto • Systrace • Bugreports • ADB • Gerrit • Jenkins
 
-Version Control:- Bitbucket, Git, Github
+## ⚙️ Android Build System
 
-Text Editors:- Vim, Gedit, vi, VS Code
+Soong • Ninja • Kati • Makefiles • Android.bp
 
-Project Management:- JIRA
+## 💻 Programming Languages
 
-CI/CD Integration:- Jenkins
+Java • Kotlin • C • C++
+
+## 🚀 Key Work
+
+• Developed a custom static analysis tool to detect deprecated APIs and insecure WebView usage in Android applications.
+• Automated vulnerability scanning for weak cryptographic algorithms across native libraries using ELF parsing.
+• Diagnosed and fixed race conditions in Android Framework components causing SystemUI ANRs.
+• Implemented and ported platform features across Android versions and chipset architectures.
+• Integrated enterprise hardware components including barcode scanners and secondary display support.
+
+## 📫 Connect with me
+
+Email: [virajpataniya@gmail.com](mailto:virajpataniya@gmail.com)
+LinkedIn: linkedin.com/in/virajpataniya
